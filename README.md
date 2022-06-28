@@ -1,28 +1,26 @@
  
 
- ## Olá Eu sou a Carla Pessoa 
+ ## Olá, me chamo Carla Pessoa.
 
-  
-
- 🌱 Cursando Análise e Desenvolvimento de Sistemas <br> 
-
+ 🌱 Estou cursando Análise e Desenvolvimento de Sistemas <br> 
  🌐 Sou Desenvolvedora WEB pelo Senac - HTML, CSS, JS <br> 
-
+ 👩‍💻 Fullstack Developer <br>
+ 💓 Lover of Technology and Coding <br>
  🔎 Estou buscando novos conhecimentos, emprego/serviços, na área de TI. 
-
 
  ## 
 
-
  <div align="center"> 
-   <a href="https://github.com/carlamaster"> 
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlamaster&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/> 
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamaster&layout=compact&langs_count=7&theme=cobalt2"/> 
+   <a href="https://github.com/carlamaster">
+   
+  <!--- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlamaster&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/> -->
+   
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamaster&layout=compact&langs_count=7&theme=buefy"/> 
      </div> 
 
    ##  
 
- <div style="display: inline_block">
+ <div align="center" style="display: inline_block">
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
