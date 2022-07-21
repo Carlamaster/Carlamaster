@@ -5,10 +5,12 @@
  🌱 Estou cursando Análise e Desenvolvimento de Sistemas - Fac. Descomplica <br> 
  🌐 Sou Desenvolvedora WEB pelo Senac - HTML, CSS, JS <br> 
  👩‍💻 Fullstack Developer - {{ProgAmo}}<br>
- 💓 Lover of Technology and Coding <br>
- 🔎 Estou buscando novos conhecimentos, emprego/serviços, na área de TI. 
+ 🔎 Estou buscando novos conhecimentos, emprego/serviços, na área de TI. <br>
+ 💓 Passionate about technology and coding && <br>
+ 👫👨‍👩‍👧 I Love my family </> <br>
+ 
 
- ## 
+ ##
 
  <div align="center"> 
    <a href="https://github.com/carlamaster">
