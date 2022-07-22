@@ -2,14 +2,13 @@
 
  ## Olá, me chamo Carla Pessoa.
 
- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas - Fac. Descomplica <br> 
- 🌐 Sou Desenvolvedora WEB pelo Senac - HTML, CSS, JS <br> 
- 👩‍💻 Fullstack Developer - {{ProgAmo}}<br>
- 🔎 Estou buscando novos conhecimentos, emprego/serviços, na área de TI. <br>
- 💓 Passionate about technology and coding && <br>
- 👫👨‍👩‍👧 I Love my family </> <br>
- 
 
+ 🌱 Estou cursando Análise e Desenvolvimento de Sistemas - Graduação Fac. Descomplica <br> 
+ 🌐 Sou Desenvolvedora WEB - técnico SENAC - HTML, CSS, JS <br> 
+ 👩‍💻 class ProgAmo {fullStackDeveloper} <br>
+ 🔎 Estou buscando novos conhecimentos, emprego/serviços, na área de TI. <br>
+<b>(💓 Passionate about technology and coding) && (👫 I Love my family 👨‍👩‍👧 )</b> <br>
+ 
  ##
 
  <div align="center"> 
