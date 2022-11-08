@@ -5,7 +5,7 @@
 
  🌱 Estou cursando Análise e Desenvolvimento de Sistemas - Graduação Fac. Descomplica <br> 
  🌐 Sou Desenvolvedora WEB - técnico SENAC - HTML, CSS, JS <br> 
- 👩‍💻 class ProgAmo {fullStackDeveloper} <br>
+ 👩‍💻 class ProgAmo  <br>
  🔎 Estou buscando novos conhecimentos, emprego/serviços, na área de TI. <br>
 <b>(💓 Passionate about technology and coding) && (👫 I Love my family 👨‍👩‍👧 )</b> <br>
  
